@@ -21,7 +21,6 @@ Note that limitations arise from the nature of the egress data, as increased PPE
 ![PPE-Usage-Vs-Humidity](BarCharts/PPE-Usage-Vs-Humidity.png)
 ![PPE-Usage-Vs-Temperature](BarCharts/PPE-Usage-Vs-Temperature.png)
 ![PPE-Usage-vs-Weather-Type](BarCharts/PPE-Usage-vs-Weather-Type.png)
-
 <br><br>
 
 ## Language Used
